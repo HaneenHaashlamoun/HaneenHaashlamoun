@@ -40,7 +40,6 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-  <code><img width="10%" height="50px" src="https://hasfocus.com/wp-content/uploads/2020/11/should-i-learn-c-in-2021.png"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
