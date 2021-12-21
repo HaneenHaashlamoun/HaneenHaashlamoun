@@ -13,7 +13,7 @@ You can use the website to generate badges: https://shields.io/
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="40%" height='250px'  align="right" alt="Github" src="https://ih1.redbubble.net/image.1013784055.5725/st,small,507x507-pad,600x600,f8f8f8.jpg" />
+<img width="40%" height='250px'  align="right" alt="Github" src="https://www.scottcountyiowa.gov/sites/default/files/images/post/girls%20who%20code.png" />
 <br />
 <br />
 - 👨🏽‍💻 I’m a Full Stack Developer ;
