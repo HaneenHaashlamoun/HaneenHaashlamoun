@@ -13,7 +13,7 @@ You can use the website to generate badges: https://shields.io/
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="40%" height='250px'  align="right" alt="Github" src="https://girlswhocode.com/assets/images/craft-prod/images/seo/_1200x630_crop_center-center_82_none/GWC_SEO_Logo.png?mtime=1587761177" />
+<!-- <img width="40%" height='250px'  align="right" alt="Github" src="https://girlswhocode.com/assets/images/craft-prod/images/seo/_1200x630_crop_center-center_82_none/GWC_SEO_Logo.png?mtime=1587761177" /> -->
 <br />
 <br />
 - 👨🏽‍💻 I’m a Full Stack Developer ;
