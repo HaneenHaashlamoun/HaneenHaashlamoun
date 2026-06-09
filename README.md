@@ -23,7 +23,6 @@ You can use the website to generate badges: https://shields.io/
 - 💬 Ask me about anything, I am happy to help;
 <br />
 <br />
-- ⚡ Fun fact: ... I recently learned Django - REST API - and a lot more
 <br />
 <br />
 - 📫 How to reach me: ... haneen.hashlamoun@gmail.com
